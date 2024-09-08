@@ -1,0 +1,16 @@
+{
+  "name": "tasks",
+  "version": "1.0.0",
+  "description": "��#\u0000T\u0000a\u0000s\u0000k\u0000\r\u0000 \u0000#\u0000 \u0000T\u0000a\u0000s\u0000k\u0000\r\u0000 \u0000",
+  "main": "fileoperations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.14.2",
+    "winston-daily-rotate-file": "^5.0.0"
+  }
+}
